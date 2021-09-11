@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roaster-timer-app/static/css/main.045a5e62.chunk.css",
+    "main.js": "/roaster-timer-app/static/js/main.8f92502b.chunk.js",
+    "main.js.map": "/roaster-timer-app/static/js/main.8f92502b.chunk.js.map",
+    "runtime-main.js": "/roaster-timer-app/static/js/runtime-main.3cc7327a.js",
+    "runtime-main.js.map": "/roaster-timer-app/static/js/runtime-main.3cc7327a.js.map",
+    "static/js/2.a0980fc7.chunk.js": "/roaster-timer-app/static/js/2.a0980fc7.chunk.js",
+    "static/js/2.a0980fc7.chunk.js.map": "/roaster-timer-app/static/js/2.a0980fc7.chunk.js.map",
+    "static/js/3.2f520d90.chunk.js": "/roaster-timer-app/static/js/3.2f520d90.chunk.js",
+    "static/js/3.2f520d90.chunk.js.map": "/roaster-timer-app/static/js/3.2f520d90.chunk.js.map",
+    "index.html": "/roaster-timer-app/index.html",
+    "static/css/main.045a5e62.chunk.css.map": "/roaster-timer-app/static/css/main.045a5e62.chunk.css.map",
+    "static/js/2.a0980fc7.chunk.js.LICENSE.txt": "/roaster-timer-app/static/js/2.a0980fc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cc7327a.js",
+    "static/js/2.a0980fc7.chunk.js",
+    "static/css/main.045a5e62.chunk.css",
+    "static/js/main.8f92502b.chunk.js"
+  ]
+}
