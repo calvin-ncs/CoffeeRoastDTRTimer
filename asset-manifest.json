@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CoffeeRoastDTRTimer/static/css/main.045a5e62.chunk.css",
+    "main.css": "/CoffeeRoastDTRTimer/static/css/main.0e501674.chunk.css",
     "main.js": "/CoffeeRoastDTRTimer/static/js/main.8f92502b.chunk.js",
     "main.js.map": "/CoffeeRoastDTRTimer/static/js/main.8f92502b.chunk.js.map",
     "runtime-main.js": "/CoffeeRoastDTRTimer/static/js/runtime-main.515afcc0.js",
@@ -10,13 +10,13 @@
     "static/js/3.2f520d90.chunk.js": "/CoffeeRoastDTRTimer/static/js/3.2f520d90.chunk.js",
     "static/js/3.2f520d90.chunk.js.map": "/CoffeeRoastDTRTimer/static/js/3.2f520d90.chunk.js.map",
     "index.html": "/CoffeeRoastDTRTimer/index.html",
-    "static/css/main.045a5e62.chunk.css.map": "/CoffeeRoastDTRTimer/static/css/main.045a5e62.chunk.css.map",
+    "static/css/main.0e501674.chunk.css.map": "/CoffeeRoastDTRTimer/static/css/main.0e501674.chunk.css.map",
     "static/js/2.a0980fc7.chunk.js.LICENSE.txt": "/CoffeeRoastDTRTimer/static/js/2.a0980fc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.515afcc0.js",
     "static/js/2.a0980fc7.chunk.js",
-    "static/css/main.045a5e62.chunk.css",
+    "static/css/main.0e501674.chunk.css",
     "static/js/main.8f92502b.chunk.js"
   ]
 }
